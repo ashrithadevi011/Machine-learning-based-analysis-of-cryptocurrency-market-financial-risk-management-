@@ -3,13 +3,9 @@
 Technologies Used:
 
 Python
-
 Machine Learning
-
 LSTM (Long Short-Term Memory)
-
 Random Forest
-
 Natural Language Processing (NLP)
 
 
