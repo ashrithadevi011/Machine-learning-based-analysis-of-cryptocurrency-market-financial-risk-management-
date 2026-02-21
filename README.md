@@ -15,5 +15,6 @@ Figure-11: Risk Prediction Input Form This is where the magic starts; users can 
 ![Alt text](https://raw.githubusercontent.com/ashrithadevi011/Machine-learning-based-analysis-of-cryptocurrency-market-financial-risk-management-/8ec6cb7935ce7f1d4a3d8dc0fcdae0734e78ff0a/Screenshot-2.png)
 
 Figure-12: Above mentioned
+
 Figure-13: Model Accuracy Comparison The system provides a clear visual bar chart comparing the performance of different machine learning algorithms. In this view, you can see the Decision Tree Classifier achieving a high accuracy rate for its predictions
 ![Alt text](https://raw.githubusercontent.com/ashrithadevi011/Machine-learning-based-analysis-of-cryptocurrency-market-financial-risk-management-/a46fc23cb6f560fb131dd3b8df84181063b79706/Screenshot%202026-02-21%20201925.png)
