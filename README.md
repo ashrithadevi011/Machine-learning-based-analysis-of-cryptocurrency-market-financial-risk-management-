@@ -32,3 +32,6 @@ Figure-17: Financial Risk Ratio Overview This summary provides a high-level look
 ![Alt text](https://raw.githubusercontent.com/ashrithadevi011/Machine-learning-based-analysis-of-cryptocurrency-market-financial-risk-management-/976e561100d59649c1a94bb15f4d8d2fbe757863/Screenshot%202026-02-21%20162752.png)
 
 
+Made by: Vagmare Ashritha Devi
+
+
