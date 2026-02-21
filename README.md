@@ -18,3 +18,10 @@ Figure-12: Above mentioned
 
 Figure-13: Model Accuracy Comparison The system provides a clear visual bar chart comparing the performance of different machine learning algorithms. In this view, you can see the Decision Tree Classifier achieving a high accuracy rate for its predictions
 ![Alt text](https://raw.githubusercontent.com/ashrithadevi011/Machine-learning-based-analysis-of-cryptocurrency-market-financial-risk-management-/a46fc23cb6f560fb131dd3b8df84181063b79706/Screenshot%202026-02-21%20201925.png)
+
+Figure-14: Raw Cryptocurrency Dataset This view showcases the extensive dataset used for analysis. It contains critical market parameters like 24-hour volume and price changes that the machine learning model processes to find patterns.
+
+Prediction Results
+Figure-15: Real-Time Risk Prediction Users can enter specific data for a coin, such as Bitcoin Gold, and click "Predict." The system then processes the data instantly to determine the current financial risk status.
+![Alt text]()
+
