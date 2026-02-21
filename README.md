@@ -1,4 +1,14 @@
 # Machine-learning-based-analysis-of-cryptocurrency-market-financial-risk-management-
+
+Technologies Used:
+
+Python
+Machine Learning
+LSTM (Long Short-Term Memory)
+Random Forest
+Natural Language Processing (NLP)
+
+
 Figure-6: User Login Portal This is the entry point of the application where existing users can securely log in to the system. It also provides easy navigation for new users to register or for service providers to access their specific portal.
 
 Figure-7: User Registration Page New users can join the platform by filling out this simple registration form. It captures essential details like username, email, and location to create a personalized experience for every member
@@ -32,6 +42,5 @@ Figure-17: Financial Risk Ratio Overview This summary provides a high-level look
 ![Alt text](https://raw.githubusercontent.com/ashrithadevi011/Machine-learning-based-analysis-of-cryptocurrency-market-financial-risk-management-/976e561100d59649c1a94bb15f4d8d2fbe757863/Screenshot%202026-02-21%20162752.png)
 
 
-Made by: Vagmare Ashritha Devi
 
 
