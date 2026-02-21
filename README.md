@@ -29,6 +29,6 @@ Figure-15: Real-Time Risk Prediction Users can enter specific data for a coin, s
 Figure-16: Market Risk Analysis Table The final analysis results are presented in a clear, color-coded table. It explicitly labels each cryptocurrency as either "Risk Found" or "No Risk Found" based on the model's findings.
 
 Figure-17: Financial Risk Ratio Overview This summary provides a high-level look at the overall market health. It calculates the exact ratio of safe versus risky cryptocurrencies currently being monitored by the system
-![Alt text]()
+![Alt text](https://raw.githubusercontent.com/ashrithadevi011/Machine-learning-based-analysis-of-cryptocurrency-market-financial-risk-management-/976e561100d59649c1a94bb15f4d8d2fbe757863/Screenshot%202026-02-21%20162752.png)
 
 
