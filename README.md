@@ -2,11 +2,11 @@
 
 Technologies Used:
 
-Python
-Machine Learning
-LSTM (Long Short-Term Memory)
-Random Forest
-Natural Language Processing (NLP)
+Python,
+Machine Learning,
+LSTM (Long Short-Term Memory),
+Random Forest,
+Natural Language Processing (NLP).
 
 
 Figure-6: User Login Portal This is the entry point of the application where existing users can securely log in to the system. It also provides easy navigation for new users to register or for service providers to access their specific portal.
