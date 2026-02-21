@@ -12,4 +12,4 @@ Figure-9 & Figure-12: Remote User Management Administrators can access this comp
 Figure-10: Personal User Profile Once logged in, users can view their unique profile page. This section displays all their registered information, allowing them to verify their details within the system at a glance.
 
 Figure-11: Risk Prediction Input Form This is where the magic starts; users can input specific market data for any cryptocurrency. These details are used by the machine learning model to evaluate the financial risk level of the chosen coin
-![Alt text]()
+![Alt text](https://raw.githubusercontent.com/ashrithadevi011/Machine-learning-based-analysis-of-cryptocurrency-market-financial-risk-management-/8ec6cb7935ce7f1d4a3d8dc0fcdae0734e78ff0a/Screenshot-2.png)
