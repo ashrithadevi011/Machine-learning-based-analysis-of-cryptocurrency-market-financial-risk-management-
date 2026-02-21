@@ -9,6 +9,7 @@ Random Forest,
 Natural Language Processing (NLP).
 
 
+
 Figure-6: User Login Portal This is the entry point of the application where existing users can securely log in to the system. It also provides easy navigation for new users to register or for service providers to access their specific portal.
 
 Figure-7: User Registration Page New users can join the platform by filling out this simple registration form. It captures essential details like username, email, and location to create a personalized experience for every member
