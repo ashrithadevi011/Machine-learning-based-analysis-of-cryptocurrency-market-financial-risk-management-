@@ -22,6 +22,13 @@ Figure-13: Model Accuracy Comparison The system provides a clear visual bar char
 Figure-14: Raw Cryptocurrency Dataset This view showcases the extensive dataset used for analysis. It contains critical market parameters like 24-hour volume and price changes that the machine learning model processes to find patterns.
 
 Prediction Results
+
 Figure-15: Real-Time Risk Prediction Users can enter specific data for a coin, such as Bitcoin Gold, and click "Predict." The system then processes the data instantly to determine the current financial risk status.
+![Alt text](https://raw.githubusercontent.com/ashrithadevi011/Machine-learning-based-analysis-of-cryptocurrency-market-financial-risk-management-/c3f8ae0c0ed684e5964de8e2f7e92a984561901b/Screenshot%202026-02-21%20162725.png)
+
+Figure-16: Market Risk Analysis Table The final analysis results are presented in a clear, color-coded table. It explicitly labels each cryptocurrency as either "Risk Found" or "No Risk Found" based on the model's findings.
+
+Figure-17: Financial Risk Ratio Overview This summary provides a high-level look at the overall market health. It calculates the exact ratio of safe versus risky cryptocurrencies currently being monitored by the system
 ![Alt text]()
+
 
